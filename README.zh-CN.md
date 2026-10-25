@@ -347,6 +347,8 @@ dsh plugin --profile web add "github:owner/repo#ref"
 - [zhao-guang-ai/dsh-quote-annotate-pro](https://github.com/zhao-guang-ai/dsh-quote-annotate-pro) - 划词批注与引用锚点：支持跳回原文、在发送的引用中标明轮次与角色，并将锚点保存到 localStorage；默认启用向 localhost 发送诊断请求。
 - [dsh-skill-mini-manager](https://github.com/runcat-tommy/dsh-skill-mini-manager) - DSH Web 设置中的极简 skill 管理器：列出已安装技能的简介、来源与磁盘占用，将符合移除条件的文件型技能移入可恢复的回收站，并保护内置和系统技能。
 
+- [LUgABeEEE/dsh-sidebar-density](https://github.com/LUgABeEEE/dsh-sidebar-density) - 轻量级侧栏 UI：五个折叠开关、三档密度预设与三档宽度预设，入口收在底部一行与设置分区；无依赖、无后台服务。
+
 ## Dashboards & Session UX
 - [dsh-workspace-mover](https://github.com/PianoPrince/dsh-workspace-mover) - 跨工作区真原位迁移会话：拖拽迁移、批量/分组合并、孤儿救援面板、工作区搬家向导、可还原回收站、字节级备份与逐步回滚加迁移后校验，并提供 dsh-tools Agent 工具（npm: dsh-workspace-mover）。
 
